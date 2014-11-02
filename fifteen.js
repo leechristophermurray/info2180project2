@@ -23,7 +23,7 @@ window.onload = function ()
 			{
 				this.style.border = "3px solid red";
 				this.style.color = "#006600";
-                this.style.backgroundImage="url('https://lh5.googleusercontent.com/-moenFFFiURs/U4s3kRpMz7I/AAAAAAAANFw/cjazETTAcJY/s630-fcrop64=1,00006d54fffffd54/2116c898-c3ba-40cd-b219-b90213700afb')"; 
+                this.style.backgroundImage="url('http://www.crn.com/ckfinder/userfiles/images/crn/slideshows/2014/google-nexus-6/lollipop.jpg')"; 
 
 			}
 		};
