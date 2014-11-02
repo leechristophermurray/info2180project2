@@ -21,15 +21,15 @@ window.onload = function ()
 		{
 			if (checkCanMove(parseInt(this.innerHTML)))
 			{
-				this.style.border = "2px solid red";
+				this.style.border = "3px solid red";
 				this.style.color = "#006600";
-                this.style.backgroundImage="url('http://s8.favim.com/orig/72/anime-anime-boy-boy-kid-Favim.com-723877.jpg')"; 
+                this.style.backgroundImage="url('https://lh5.googleusercontent.com/-moenFFFiURs/U4s3kRpMz7I/AAAAAAAANFw/cjazETTAcJY/s630-fcrop64=1,00006d54fffffd54/2116c898-c3ba-40cd-b219-b90213700afb')"; 
 
 			}
 		};
 		div[i].onmouseout = function()
 		{
-			this.style.border = "2px solid black";
+			this.style.border = "5px solid black";
 			this.style.color = "#000000";
 		};
 
